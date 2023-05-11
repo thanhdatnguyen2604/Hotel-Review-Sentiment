@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+tensorflow_hub
+tensorflow_text==2.9.0
+xlsxwriter
+sklearn
+underthesea
+vncorenlp
