@@ -6,8 +6,8 @@ Data obtained from crawling hotel reviews on [Tripadvisor](https://www.tripadvis
 
 ## Build Models
 - RNN_LSTM 
-- Apply PySpark
-- PhoBERT
+- PySpark
+- PhoBERT (I run this on Kaggle)
 
-## Evaluation
+## 
 
